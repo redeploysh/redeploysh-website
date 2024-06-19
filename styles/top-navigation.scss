@@ -1,0 +1,48 @@
+
+#top-navigation {
+  background-color: $platinum;
+  padding: 1em;
+  display: flex;
+  justify-content: space-between;
+
+  > h1 {
+    width: 20%;
+  }
+
+  > #center-nav {
+    width: 60%;
+    text-align: center;
+  }
+
+  > #hamburger {
+    width: 20%;
+    text-align: right;
+  }
+
+  .tags {
+      margin-top: 1em;
+      display: flex;
+       justify-content: space-between;
+      text-align: left;
+
+      span {
+        width: 83px;
+      }
+
+      #tag-wrapper {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+
+
+        .tag {
+          margin-right: .5em;
+          &:last-child {
+            margin-right: 0;
+          }
+        }
+      }
+
+
+  }
+}
