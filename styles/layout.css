@@ -2703,7 +2703,7 @@ a.tag:hover {
   vertical-align: top;
 }
 
-/* Bulma Form */
+/* Bulma Fields */
 .select select, .textarea, .input {
   background-color: hsl(0deg, 0%, 100%);
   border-color: hsl(0deg, 0%, 86%);

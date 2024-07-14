@@ -5,24 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="208b1035-31d7-4bfd-833a-e24d0a6211f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/deployable-create-modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/deployable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playground.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bulma/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/deployable-create-modal-template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/deployable-template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/page-template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-3.4.31.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/top-navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/top-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/field.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/fields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/field-template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fields-template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/deployable-create-modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/deployable-create-modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/bulma/base/_minireset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/bulma/base/_minireset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/bulma/form/_all.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/bulma/form/_all.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/top-navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/top-navigation.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/app-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/app-template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/top-navigation-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/top-navigation-template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/deployable-create-modal-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/deployable-create-modal-template.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +83,7 @@
       <updated>1718830705961</updated>
       <workItem from="1718830707618" duration="7327000" />
       <workItem from="1719952180875" duration="7617000" />
-      <workItem from="1720544357309" duration="553000" />
+      <workItem from="1720544357309" duration="14879000" />
     </task>
     <servers />
   </component>

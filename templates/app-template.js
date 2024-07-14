@@ -1,9 +1,10 @@
 const AppTemplate = `
+<div>
+    <deployable-create-modal></deployable-create-modal>
     <top-navigation></top-navigation>    
     <page></page>
-    <page @content="aws"></page>
-    <page></page>
-    <page></page>
-    <deployable-create-modal></deployable-create-modal>
+</div>
+    
+    
 `;
 export { AppTemplate }
